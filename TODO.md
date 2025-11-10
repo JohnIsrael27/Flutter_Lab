@@ -1,0 +1,2 @@
+- [x] Move sqflite_common_ffi initialization to main.dart before runApp
+- [x] Remove initialization from database_helper.dart constructor
